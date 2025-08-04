@@ -9,7 +9,7 @@ Built using Microsoft Excel, this interactive dashboard helps HR teams derive in
 
 ---
 
-<img width="1325" height="480" alt="Image" src="https://github.com/user-attachments/assets/f01ed87c-ad98-40d5-9ff2-57812b275575" />
+<img width="1317" height="475" alt="Image" src="https://github.com/user-attachments/assets/1d3b2816-1cc0-41da-8fa6-5b993f961cc4" />
 
 ---
 
@@ -34,3 +34,11 @@ Built using Microsoft Excel, this interactive dashboard helps HR teams derive in
 🎚️ Slicers
 
 💡 Conditional Formatting
+
+📘 Custom Gradient Background
+
+---
+
+Developed By 
+
+Kaumudi Gavkhadkar - kaumudigavkhadkar275@gmail.com
